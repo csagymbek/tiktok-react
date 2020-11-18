@@ -1,6 +1,6 @@
 ### TikTok React App
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [https://tiktok-react-eba24.web.app/](https://tiktok-react-eba24.web.app/) to view it in the browser.
 
 #### Dependencies
 
